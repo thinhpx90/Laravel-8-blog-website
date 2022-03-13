@@ -1,0 +1,10 @@
+@font-face {
+    src:url(public/font/Northwell.ttf);
+    font-family: Slide_title;
+}
+.font-1{
+    font-family: Slide_title;
+}
+font-slide{
+    font-family: 'Smooch', cursive;
+}
